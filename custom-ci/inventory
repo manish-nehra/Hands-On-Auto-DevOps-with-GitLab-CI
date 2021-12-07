@@ -1,7 +1,0 @@
-[gitlab-ce]
-server
-
-[gitlab-runner]
-runner1 # Shell runner; Attaches to gitlab.com
-runner2 # Autoscaling runner; Attaches to gitlab.com
-runner3 # Autoscaling runner; Attaches to local GitLab server
